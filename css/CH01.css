@@ -1,0 +1,45 @@
+*{
+margin: 0px;	
+padding: 0px;
+}
+
+h2{
+	color: #3CB371;
+}
+h2{
+    display: flex;
+	justify-content: space-around;	
+}
+h6{
+	 display: flex;
+	justify-content: space-around;
+}
+
+.container{
+	background-color:#F5F5F5;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+h3{
+	color: white;
+}
+span{
+	color: white;
+}
+
+
+.d5 h3{
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
+}
+.d5 span{
+	display: flex;
+	justify-content: center;
+	color: white;
+	font-weight: bold;
+}
+
